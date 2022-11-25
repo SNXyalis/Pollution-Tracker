@@ -3,7 +3,7 @@ An assignment for the urban computing classes usind Node-Red, Rabbitmq and SQLit
 
 Requirements:
 
-Node-Red, RabbitMq
+Node-Red, RabbitMq, Tomtom API key
 
 Notes:
-Configure the rabbitmq and sqllite node paths according to your system and it's ready to use.
+Configure the rabbitmq and sqllite node paths according to your system, change Tomtom api key and it's ready to use. The project works specifically for City of London.
